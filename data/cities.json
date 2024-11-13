@@ -1,99 +1,75 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "id": "c36f",
-      "cityName": "Jabalya",
+      "id": "26ec",
+      "cityName": "Gaza",
       "country": "Palestine, State of",
-      "date": "2024-10-30T20:09:10.620Z",
-      "notes": "Jabalya is blessed palce : ) ",
+      "date": "2024-11-13T09:13:21.483Z",
+      "notes": "Gaza is the land of resilience ",
       "emoji": "🇵🇸",
       "position": {
-        "lat": "31.52982402108432",
-        "lng": "34.48299407958985"
+        "lat": "31.522361470421437",
+        "lng": "34.45037841796876"
       }
     },
     {
-      "id": "22a6",
-      "cityName": "Mecca",
+      "id": "9b3f",
+      "cityName": "Relizane",
+      "country": "Algeria",
+      "date": "2024-11-13T09:14:14.208Z",
+      "notes": "",
+      "emoji": "🇩🇿",
+      "position": {
+        "lat": "35.75765724051562",
+        "lng": "0.5603027343750001"
+      }
+    },
+    {
+      "id": "58cf",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2024-11-13T09:14:29.044Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.48873742102282",
+        "lng": "-3.6804199218750004"
+      }
+    },
+    {
+      "id": "5ffb",
+      "cityName": "Medina",
       "country": "Saudi Arabia",
-      "date": "2024-10-31T09:23:45.658Z",
-      "notes": "Mecca is the best place to visit !!",
+      "date": "2024-11-13T09:14:45.829Z",
+      "notes": "",
       "emoji": "🇸🇦",
       "position": {
-        "lat": "21.42258965738816",
-        "lng": "39.82619047164918"
+        "lat": "24.627044746156027",
+        "lng": "39.61669921875001"
       }
     },
     {
-      "id": "f41b",
-      "cityName": "Doha",
-      "country": "Qatar",
-      "date": "2024-10-31T09:25:40.987Z",
+      "id": "0c78",
+      "cityName": "Paris",
+      "country": "France",
+      "date": "2024-11-13T09:14:57.782Z",
       "notes": "",
-      "emoji": "🇶🇦",
+      "emoji": "🇫🇷",
       "position": {
-        "lat": "25.27450351782018",
-        "lng": "51.52587890625001"
+        "lat": "48.879167148960214",
+        "lng": "2.3126220703125004"
       }
     },
     {
-      "id": "5844",
-      "cityName": "Rio de Janeiro",
-      "country": "Brazil",
-      "date": "2024-10-31T09:26:04.822Z",
+      "id": "3022",
+      "cityName": "Tetouan",
+      "country": "Morocco",
+      "date": "2024-11-13T09:15:24.706Z",
       "notes": "",
-      "emoji": "🇧🇷",
+      "emoji": "🇲🇦",
       "position": {
-        "lat": "-22.916658041825645",
-        "lng": "-43.22708129882813"
-      }
-    },
-    {
-      "id": "ee40",
-      "cityName": "New York City",
-      "country": "United States of America (the)",
-      "date": "2024-10-31T09:26:52.901Z",
-      "notes": "New York is very busy city\n",
-      "emoji": "🇺🇸",
-      "position": {
-        "lat": "40.7202010588415",
-        "lng": "-74.01145935058595"
-      }
-    },
-    {
-      "id": "dc1d",
-      "cityName": "Abu Dhabi",
-      "country": "United Arab Emirates (the)",
-      "date": "2024-10-31T09:34:11.264Z",
-      "notes": "",
-      "emoji": "🇦🇪",
-      "position": {
-        "lat": "24.472150437226876",
-        "lng": "54.36309814453126"
+        "lat": "35.59031875398378",
+        "lng": "-5.3558349609375"
       }
     }
   ]
