@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "c36f",
+      "cityName": "Jabalya",
+      "country": "Palestine, State of",
+      "date": "2024-10-30T20:09:10.620Z",
+      "notes": "Jabalya is blessed palce : ) ",
+      "emoji": "🇵🇸",
+      "position": {
+        "lat": "31.52982402108432",
+        "lng": "34.48299407958985"
+      }
+    },
+    {
+      "id": "22a6",
+      "cityName": "Mecca",
+      "country": "Saudi Arabia",
+      "date": "2024-10-31T09:23:45.658Z",
+      "notes": "Mecca is the best place to visit !!",
+      "emoji": "🇸🇦",
+      "position": {
+        "lat": "21.42258965738816",
+        "lng": "39.82619047164918"
+      }
+    },
+    {
+      "id": "f41b",
+      "cityName": "Doha",
+      "country": "Qatar",
+      "date": "2024-10-31T09:25:40.987Z",
+      "notes": "",
+      "emoji": "🇶🇦",
+      "position": {
+        "lat": "25.27450351782018",
+        "lng": "51.52587890625001"
+      }
+    },
+    {
+      "id": "5844",
+      "cityName": "Rio de Janeiro",
+      "country": "Brazil",
+      "date": "2024-10-31T09:26:04.822Z",
+      "notes": "",
+      "emoji": "🇧🇷",
+      "position": {
+        "lat": "-22.916658041825645",
+        "lng": "-43.22708129882813"
+      }
+    },
+    {
+      "id": "ee40",
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "date": "2024-10-31T09:26:52.901Z",
+      "notes": "New York is very busy city\n",
+      "emoji": "🇺🇸",
+      "position": {
+        "lat": "40.7202010588415",
+        "lng": "-74.01145935058595"
+      }
+    },
+    {
+      "id": "dc1d",
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "date": "2024-10-31T09:34:11.264Z",
+      "notes": "",
+      "emoji": "🇦🇪",
+      "position": {
+        "lat": "24.472150437226876",
+        "lng": "54.36309814453126"
+      }
+    }
+  ]
+}
